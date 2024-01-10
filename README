@@ -3,3 +3,40 @@ Here's my Home Assistant configuration. I have installed HA on an Rasberry PI 4 
 I regularly update my configuration files. You can check my current HA version here. If you like anything here, Be sure to 🌟 my repo!
 
 
+1 - Installation guide
+
+Work in progress
+
+2 - First setup
+
+Work in progress
+
+
+3 - Setup world acces
+
+Work in progress
+
+
+4 - Secure you domotique installation
+
+Work in progress
+
+  - DNS
+  - Reverse Proxy
+
+5 - Must have app
+
+Work in progress
+
+  - AdGuard Home
+
+  - Studio Code Server
+
+  - Terminal & SSH
+
+  - Matter Server
+
+
+6 - HACS installation
+
+Work in progress
