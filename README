@@ -5,16 +5,16 @@ I regularly update my configuration files. You can check my current HA version h
 
 1 - Installation guide
 
-Work in progress
+  Work in progress
 
 2 - First setup
 
-Work in progress
+  Work in progress
 
 
 3 - Setup world acces
 
-Work in progress
+  Work in progress
 
 
 4 - Secure you domotique installation
@@ -23,10 +23,20 @@ Work in progress
 
   - DNS
   - Reverse Proxy
+  - SSD installation (avoid MicroSD I/O errors)
+  - UPS onduleur
 
-5 - Must have app
+5 - How-to update the firmware of ZigBee devices
 
-Work in progress
+  Work in progress
+
+6 - HACS installation
+
+  Work in progress
+
+7 - Must have app
+
+  Work in progress
 
   - AdGuard Home
 
@@ -36,7 +46,11 @@ Work in progress
 
   - Matter Server
 
+8 - Best automation / "Blueprints"
 
-6 - HACS installation
+  Work in progress
+  - xxxxxxx
+  - xxxxxxx
+  - xxxxxxx
 
-Work in progress
+
