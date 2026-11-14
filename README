@@ -5,7 +5,26 @@ I regularly update my configuration files. You can check my current HA version h
 
 1 - Installation guide
 
-  Work in progress
+Download and install the Raspberry Pi Imager on your computer as described under https://www.raspberrypi.com/software/.
+Open the Raspberry Pi Imager and select OS.
+Select Other specific-purpose OS > Home automation > Home Assistant.
+Choose the Home Assistant OS that matches your hardware.
+Choose the storage:
+Insert the SD card into the computer. Note: the contents of the card will be overwritten.
+Select your SD card.
+
+Write the installer onto the SD card:
+To start the process, select Next, then choose Write.
+Wait for the Home Assistant OS to be written to the SD card.
+
+Select Finish and eject the SD card.
+START UP YOUR RASPBERRY PI 
+
+Insert the SD card into your Raspberry Pi.
+Plug in an Ethernet cable and make sure the Raspberry Pi is connected to the same network as your computer and is connected to the internet.
+Connect the power supply to start up the device.
+
+
 
 2 - First setup
 
